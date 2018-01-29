@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My full name is Alexander Frattellone, but you can call me Zander. Like most of the class I'm a senior computer science major. Looking forward to learning about open source programming!
 
 ### More Information
 
