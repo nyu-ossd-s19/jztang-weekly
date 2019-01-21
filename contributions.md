@@ -9,6 +9,9 @@ Type of the contribution should be "Wikipedia edit", "OpenStreet Map feature", "
 "Browse Add-on", etc. 
 
 The descriptioin should include a brief summary of what you did. 
+
+Replace the first row with your contribution. 
+
 --> 
 
 
@@ -17,6 +20,6 @@ The descriptioin should include a brief summary of what you did.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | lin to my contribution    | course website    |   I fixed a broken link.    |
+|  2   | link to my contribution    | course website    |   I fixed a broken link.    |
 |     |     |     |      |
 |     |     |     |      |
