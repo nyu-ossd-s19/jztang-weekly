@@ -16,7 +16,7 @@ The descriptioin should include a brief summary of what you did.
 
 
 | Week #       | Contribution (Link)  | Type  | Description | 
-| ------------- |:-------------|:-----|:---------| 
-|     |     |     |      |
+|---|:---|:---|:---| 
+|  2   | lin to my contribution    | course website    |   I fixed a broken link.    |
 |     |     |     |      |
 |     |     |     |      |
