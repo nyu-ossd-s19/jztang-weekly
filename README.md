@@ -1,2 +1,1 @@
-This is a simple template for the class blog. 
-
+[Link to blog](https://nyu-ossd-s19.github.io/jztang-weekly/)
