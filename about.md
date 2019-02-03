@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-NYU CS Fall '19 - so does that make me a senior or junior? :joy:
+NYU CS Fall '19 (wait so does that make me a senior or junior?)
 
 ### More Information
 
