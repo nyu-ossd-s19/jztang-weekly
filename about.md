@@ -6,7 +6,7 @@ permalink: /about/
 
 NYU CS Fall '19 (wait so does that make me a senior or junior?)
 
-### More Information
+### Fun Facts
 
 - Front-end developer
 - Game programmer
