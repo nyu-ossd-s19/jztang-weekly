@@ -4,9 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+NYU CS Fall '19 - so does that make me a senior or junior? :joy:
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+- Front-end developer
+- Game programmer
+- Plays a lot of video games (mostly shooters)
+- Main support player for NYU Overwatch
+- Bad at guitar (for now)
+- Big kpop fan
+- Currently watching *Terrace House*
