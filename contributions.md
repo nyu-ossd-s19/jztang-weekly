@@ -16,6 +16,6 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-| 2 | [](https://github.com/nyu-ossd-s19/jwanggggg-weekly/issues/1) | blog | Filed an issue with a heading appearing twice |
-| 2 | [](https://github.com/nyu-ossd-s19/rachelyhe-weekly/issues/1) | blog | Added more details to an existing issue regarding broken links |
-| 2 | [](https://github.com/nyu-ossd-s19/wang1998tina-weekly/issues/1) | blog | Filed an issue with a broken link |
+| 2 | <https://github.com/nyu-ossd-s19/jwanggggg-weekly/issues/1> | blog | Filed an issue with a heading appearing twice |
+| 2 | <https://github.com/nyu-ossd-s19/rachelyhe-weekly/issues/1> | blog | Added more details to an existing issue regarding broken links |
+| 2 | <https://github.com/nyu-ossd-s19/wang1998tina-weekly/issues/1> | blog | Filed an issue with a broken link |
