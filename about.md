@@ -15,3 +15,4 @@ NYU CS Fall '19 (wait so does that make me a senior or junior?)
 - Big kpop fan
 - Collects fridge magnets and enamel pins
 - Currently watching *Terrace House*
+- [no u](https://www.youtube.com/watch?v=uBbwZCRIILM)
