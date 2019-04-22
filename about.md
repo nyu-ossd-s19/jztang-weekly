@@ -14,5 +14,5 @@ NYU CS Fall '19 (wait so does that make me a senior or junior?)
 - Played violin for 10 years but gave it up to be bad at guitar (for now)
 - Big kpop fan
 - Collects fridge magnets and enamel pins
-- Currently watching *Terrace House*
+- Currently watching *Memories of the Alhambra*
 - [no u](https://www.youtube.com/watch?v=uBbwZCRIILM)
