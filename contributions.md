@@ -16,8 +16,11 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---|
-| 11 | [mui-org/material-ui](https://github.com/mui-org/material-ui/pull/15439) | Pull Request | Opened a PR for the issue that I commented on before. Asked for guidance to make sure that my idea for a fix works.
-| 11 | [darkreader/darkreader](https://github.com/darkreader/darkreader/issues/1255) | Issue | Reported a bug with an extension that I use regularly.
+| 14 | [mui-org/material-ui](https://github.com/mui-org/material-ui/issues/15647) | Issue | Submitted an issue regarding broken links. |
+| 13 | [mui-org/material-ui](https://github.com/mui-org/material-ui/issues/15079) | Comment | Commented to work on an issue to link to neighboring pages, which I later realized was out of my scope. |
+| 13 | [mui-org/material-ui](https://github.com/mui-org/material-ui/pull/15591) | Pull Request | Fixed a demo that displayed incorrectly when the dark mode theme is used. |
+| 11 | [mui-org/material-ui](https://github.com/mui-org/material-ui/pull/15439) | Pull Request | Opened a PR for the issue that I commented on before. Asked for guidance to make sure that my idea for a fix works (merged on 5/2). |
+| 11 | [darkreader/darkreader](https://github.com/darkreader/darkreader/issues/1255) | Issue | Reported a bug with an extension that I use regularly. |
 | 11 | [mui-org/material-ui](https://github.com/mui-org/material-ui/issues/15316#issuecomment-483473255) | Comment | Asked to work on an issue and asked for clarification. |
 | 11 | [Wikipedia - Little India, Ipoh](https://en.wikipedia.org/w/index.php?title=Little_India,_Ipoh&oldid=893525214) | Cleanup | Grammar fixes. |
 | 10 | [Wikipedia - Acción Comunal](https://en.wikipedia.org/w/index.php?title=Acci%C3%B3n_Comunal&oldid=892526192) | Cleanup | Fixed a lot of the grammar in the article. |
